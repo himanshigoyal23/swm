@@ -1,2 +1,3 @@
-# swm
-solid waste management
+# basic
+template for comgis apps
+
